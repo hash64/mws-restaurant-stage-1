@@ -1,6 +1,20 @@
-# Mobile Web Specialist Certification Course
+# Restaurant Review App
 ---
-#### _Three Stage Course Material Project - Restaurant Reviews_
+This app is created as part of the "FRONT-END" Nanodegree Project.
+
+#### This app focuses on
+
+- accessibility
+- responsiveness
+- offline first
+
+## Features
+
+- View all restaurants
+- View restaurants for a specific district or cuisine
+- View details to a restaurant like opening hours and reviews
+- View already loaded pages also in offline mode
+- Accessibility: Use the app with screen reader or keyboard-only
 
 ## Project Overview: Stage 1
 
